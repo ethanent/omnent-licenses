@@ -1,4 +1,4 @@
-Copyright 2017 Ethan Davis
+Copyright <Year> <Name>
 
 This software and associated documentation files will collectively be referred to as "the Software", "The Software", or "THE SOFTWARE".
 

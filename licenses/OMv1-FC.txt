@@ -1,4 +1,4 @@
-Copyright 2017 Ethan Davis
+Copyright <Year> <Name>
 
 Any person obtaining a copy of this software and associated documentation files (collectively "the Software" or "THE SOFTWARE") may not use, modify, copy, publish, execute, distribute, sublicense, or sell the Software.
 
