@@ -10,24 +10,25 @@
 
 Summary (not a replacement for the software license or legal advice):
 
-Anyone who has access to licensed software can freely distribute it, modify it, and use it in most ways.
-The license must be included with any copies of the software.
-The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
+- Anyone who has access to licensed software can freely distribute it, modify it, and use it in most ways.
+- The license must be included with any copies of the software.
+- The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
 
 ### OMv2-FC (Full Closed)
 
 Summary (not a replacement for the software license or legal advice):
 
-Anyone who has access to licensed software can't do much with it.
-The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
+- Anyone who has access to licensed software can't do much with it.
+- The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
 
 ### OMv2-PROPRIETARY (Proprietary / Confidential Software)
 
 Summary (not a replacement for the software license or legal advice):
 
-The software is confidential and may not be distributed if unauthorized.
-Anyone who has access to licensed software can't do much with it.
-The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
+- The software is confidential and may not be distributed if unauthorized.
+- Anyone who has access to licensed software can't do much with it.
+- Anyone who contributes to the software gives all of their rights over their contributions to the copyright holders of the software.
+- The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
 
 ---
 
