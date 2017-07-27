@@ -1,6 +1,12 @@
 Copyright <Year> <Name>
 
-Any person obtaining a copy of this software and associated documentation files (collectively "the Software" or "THE SOFTWARE") may not use, modify, copy, publish, execute, distribute, sublicense, or sell the Software.
+This software and associated documentation files will collectively be referred to as "the Software", "The Software", or "THE SOFTWARE".
+
+Any unauthorized person obtaining a copy of the Software may not use, modify, copy, publish, execute, distribute, sublicense, or sell the Software.
+
+By contributing to the Software in a confidential repository or code hosting system which the copyright holders have access to, you cede full rights over your contributions to the development of Software including all ownership rights to the copyright holders.
+
+UNAUTHORIZED COPYING OR DISTRIBUTION OF THE SOFTWARE BY ANY MEDIUM IS STRICTLY PROHIBITED. THE SOFTWARE IS PROPRIETARY AND CONFIDENTIAL.
 
 In the future, the Software may have its license (this license) replaced or modified by the copyright holders of the software in which case changes will take immediate effect, overriding previous versions of the Software's license.
 

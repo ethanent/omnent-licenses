@@ -6,7 +6,7 @@
 
 ## Licenses
 
-### OMv1-FO (Full Open)
+### OMv2-FO (Full Open)
 
 Summary (not a replacement for the software license or legal advice):
 
@@ -14,14 +14,14 @@ Anyone who has access to licensed software can freely distribute it, modify it, 
 The license must be included with any copies of the software.
 The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
 
-### OMv1-FC (Full Closed)
+### OMv2-FC (Full Closed)
 
 Summary (not a replacement for the software license or legal advice):
 
 Anyone who has access to licensed software can't do much with it.
 The authors and copyright holders of the software aren't liable for most / all damages which may occur as a result of use of the software.
 
-### OMv1-PROPRIETARY (Proprietary / Confidential Software)
+### OMv2-PROPRIETARY (Proprietary / Confidential Software)
 
 Summary (not a replacement for the software license or legal advice):
 
