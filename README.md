@@ -36,4 +36,4 @@ Summary (not a replacement for the software license or legal advice):
 
 Nothing in this repository is legal advice and the authors and copyright holders of the licenses themselves take no reponsibility for your use of the licenses. The authors and copyright holders of the licenses themselves are not to be held reponsible for any damages resulting from your use of the licenses.
 
-All licenses themselves are licensed under OMv2-FO.
+All licenses themselves are licensed under OMv2-FO (Copyright 2017 Ethan Davis.)
